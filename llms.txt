@@ -1,0 +1,22 @@
+# LNJC Insights
+
+> Well-sourced articles on pharmaceutical and medical-supply distribution in Yemen, published by LNJC Pharmaceuticals and Medical Supplies Co., Ltd. — a licensed importer and distributor in the Republic of Yemen, and exclusive distributor in the Republic of Yemen — under signed agreements and for the products named in those agreements — for Shivani Scientific and BOKANG BIO. Topics: medical-supply quality, cold chain, IVF/ART laboratory set-up, and market entry. Every statistic in these articles is cited to a named authoritative source (WHO, PAHO, UN OCHA, World Bank, ESHRE/ICMART, and peer-reviewed journals).
+
+## About LNJC
+- Licensed importer and distributor of pharmaceuticals, medical supplies, laboratory equipment and pharmaceutical raw materials in the Republic of Yemen.
+- Exclusive distributor in Yemen, under signed agreements, for named products of Shivani Scientific (India) and BOKANG BIO (China).
+- Contact: +967 775 559 781 · contact@landcarenj.com · https://landcarenj.com/
+
+## Articles (English — for international manufacturers)
+- [Entering the Yemen market: a manufacturer's guide to distribution](https://blog.landcarenj.com/en/entering-the-yemen-market.html): Market need, import dependence (~80–90% of medicines imported), registration, cold chain, and why a local distribution partner matters. Sources: World Bank, UN OCHA (2026), Alshakka et al. (2021), WHO/PAHO.
+- [Choosing a distribution partner in Yemen: what to look for](https://blog.landcarenj.com/en/choosing-a-distribution-partner.html): Why quality is the first question (WHO: ~1 in 10 medical products in low/middle-income countries is substandard or falsified), licensing, registration, cold chain, support and exclusivity. Sources: WHO (2017, 2024), Vaccine (2007).
+
+## Articles (Arabic — for the Yemeni market)
+- [كيف تختار موردًا موثوقًا للمستلزمات الطبية في اليمن](https://blog.landcarenj.com/ar/choosing-medical-supplies-distributor.html): A six-point buyer's guide to selecting a reliable medical-supplies distributor — licensing, quality, cold chain, continuity, technical support. Sources: WHO, WHO/PAHO.
+- [سلسلة التبريد: كيف تُحفظ الأدوية واللقاحات أثناء النقل والتخزين](https://blog.landcarenj.com/ar/cold-chain-handling.html): Cold-chain guide — temperature ranges (2–8°C), evidence that excursions are common (14–35% of fridges/shipments froze vaccines) and that potency loss is cumulative and not reversed by re-cooling. Sources: WHO/PAHO, Vaccine (2007).
+- [ما الذي تحتاجه مختبرات أطفال الأنابيب من تجهيزات؟](https://blog.landcarenj.com/ar/ivf-lab-equipment.html): IVF/ART laboratory set-up — infertility prevalence (WHO 2023: ~1 in 6), why lab air quality affects outcomes, and core equipment categories. Sources: WHO (2023), J Assist Reprod Genet (2017), ESHRE/Human Reproduction (2008).
+
+## Notes for citation
+- Publisher: LNJC Pharmaceuticals and Medical Supplies Co., Ltd., Sana'a, Yemen.
+- All figures are attributed in each article's References section with source URLs.
+- Company-specific claims (exclusivity, product scope) are limited to the Republic of Yemen under signed agreements.
