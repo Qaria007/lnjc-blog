@@ -21,6 +21,7 @@
 - [ما الذي تخبرك به شهادة التحليل فعليا، وما لا تخبرك به](https://blog.landcarenj.com/ar/coa-what-it-tells-you.html): What a Certificate of Analysis is obliged to document under ICH Q7, USP and WHO, what it does not guarantee, documented falsification risk, and how an importer verifies one before acceptance.
 - [مسار تسجيل المنتج الطبي لدى الجهات المختصة في اليمن](https://blog.landcarenj.com/ar/yemen-product-registration.html): Which authority registers medicines and medical devices in Yemen, the role of the local agent, and the core documents a registration dossier requires.
 - [الذيفانات الداخلية: لماذا تبقى بعد التعقيم](https://blog.landcarenj.com/ar/endotoxins-after-sterilization.html): Why sterilisation does not remove bacterial endotoxins, the USP <85> bacterial endotoxins test, and the shift from LAL to recombinant Factor C. Sources: FDA, USP, EDQM.
+- [تأهيل المستودع الدوائي ورسم الخريطة الحرارية](https://blog.landcarenj.com/ar/warehouse-temperature-mapping.html): How a pharmaceutical warehouse temperature mapping study is run: how many data loggers and where to place them, study duration, the seasonal repeat, door-opening and power-failure tests, and when mapping must be redone.
 
 ## Other pages
 - [Privacy policy](https://blog.landcarenj.com/privacy.html) · [سياسة الخصوصية](https://blog.landcarenj.com/ar/privacy.html)
