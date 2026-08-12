@@ -7,3 +7,4 @@
 2026-08-12T14:02:21Z starting
 2026-08-12T14:02:37Z pack chosen: 01-transport-route-qualification.md, slug: transport-route-qualification
 2026-08-12T14:05:56Z article written: ar/transport-route-qualification.html, integrated into index.html, sitemap.xml, linked with cold-chain-handling.html
+2026-08-12T14:07:27Z published: ar/transport-route-qualification.html, commit 18a88ef1df167636a09249f6557f9f10b7cd0fb1, all gates passed
