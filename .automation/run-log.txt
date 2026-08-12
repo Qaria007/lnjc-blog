@@ -4,3 +4,4 @@
 2026-08-12T04:31:22Z BLOCKER: WebFetch tool returns EGRESS_BLOCKED for every domain tested (eur-lex.europa.eu, cdn.who.int, www.who.int, gmp-compliance.org, www.ecfr.gov, www.wikipedia.org, example.com). WebSearch still works and returns snippets, but the accuracy rule requires reading each source own text before citing it, which is impossible without WebFetch. Stopping article work, opening draft branch and PR to report this.
 2026-08-12T04:31:54Z Blocked run PR opened: https://github.com/Qaria007/lnjc-blog/pull/2 (branch draft/article-20260812). No article published today due to WebFetch outage.
 2026-08-12T14:00:41Z  source library added, 5 verified packs, cloud agent no longer researches
+2026-08-12T14:02:21Z starting
