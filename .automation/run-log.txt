@@ -1,3 +1,4 @@
 2026-08-12T04:29:55Z starting
 2026-08-12T04:30:19Z topic selected: item 1, qualifying a transport route and shipping lane, no existing file matches
 2026-08-12T04:30:31Z starting research on transport route and shipping lane qualification
+2026-08-12T04:31:22Z BLOCKER: WebFetch tool returns EGRESS_BLOCKED for every domain tested (eur-lex.europa.eu, cdn.who.int, www.who.int, gmp-compliance.org, www.ecfr.gov, www.wikipedia.org, example.com). WebSearch still works and returns snippets, but the accuracy rule requires reading each source own text before citing it, which is impossible without WebFetch. Stopping article work, opening draft branch and PR to report this.
