@@ -11,3 +11,4 @@
 2026-08-12T15:23:50Z  library extended to 11 packs, 10 unused, runway about 10 days
 2026-08-13T01:10:05Z starting
 2026-08-13T01:10:34Z pack chosen: 02-returned-medicines.md, slug returned-medicines
+2026-08-13T01:13:32Z article written: ar/returned-medicines.html, index and sitemap updated, reciprocal link in temperature-excursion.html
