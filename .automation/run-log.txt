@@ -12,3 +12,4 @@
 2026-08-13T01:10:05Z starting
 2026-08-13T01:10:34Z pack chosen: 02-returned-medicines.md, slug returned-medicines
 2026-08-13T01:13:32Z article written: ar/returned-medicines.html, index and sitemap updated, reciprocal link in temperature-excursion.html
+2026-08-13T01:14:03Z published: ar/returned-medicines.html, commit 5a7d113483508b5fa1776c429a7249918ae00fb1, all gates passed
