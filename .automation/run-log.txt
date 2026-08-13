@@ -10,3 +10,4 @@
 2026-08-12T14:07:27Z published: ar/transport-route-qualification.html, commit 18a88ef1df167636a09249f6557f9f10b7cd0fb1, all gates passed
 2026-08-12T15:23:50Z  library extended to 11 packs, 10 unused, runway about 10 days
 2026-08-13T01:10:05Z starting
+2026-08-13T01:10:34Z pack chosen: 02-returned-medicines.md, slug returned-medicines
