@@ -20,3 +20,4 @@
 2026-08-14T10:19:22Z  strategy applied: 4 English packs added, buyer facing Arabic packs added, queue reordered EN/EN/AR
 2026-08-14T10:19:57Z starting
 2026-08-14T10:20:18Z pack chosen: 04-en-import-controls (en/import-controls-and-clearance.html)
+2026-08-14T10:24:24Z article written: en/import-controls-and-clearance.html
