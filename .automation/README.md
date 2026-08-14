@@ -24,20 +24,45 @@ real network access**. The agent may cite only what is in a pack. Nothing else.
 
     .automation/
       README.md              this file
+      strategy.md            what to publish and why, from the market research
       run-log.txt            one line per run, appended by the agent as it works
       sources/
-        01-transport-route-qualification.md
-        02-returned-medicines.md
+        04-en-import-controls.md
+        06-ar-shipment-documents.md
         ...
 
-Each pack names its sources, gives the URL to cite, records the date the URL was verified, and
-contains the exact wording the article may rely on. Each pack also suggests an article slug.
+Each pack declares, near the top:
+
+    Language: English | Arabic
+    Output file: en/<slug>.html or ar/<slug>.html
+    Template to copy: an existing article to match structurally
+    Suggested article slug: <slug>
+
+then names its sources, gives the URL to cite, records the date each URL was verified, and
+contains the exact wording the article may rely on. Packs also carry a VERIFIED COMPANY FACTS
+block, which is the only place company specific claims may come from, and some carry an audience
+note or a warning the writer must follow.
 
 ## Daily selection rule
 
-The agent takes the lowest numbered pack whose suggested slug has no matching `ar/<slug>.html`
-yet, writes that article, and publishes it. When every pack is used, the agent has nothing to
-write and says so instead of inventing something.
+The agent takes the lowest numbered pack whose declared Output file does not yet exist, writes
+that article, and publishes it. When every pack is used, the agent has nothing to write and says
+so instead of inventing something.
+
+## Why the numbering is interleaved
+
+Per `strategy.md`, English articles aimed at manufacturers looking for a Yemen distributor are
+the highest value content and were badly under-represented. The queue is ordered to correct that,
+roughly one Arabic piece per two English ones, so the ordering is a deliberate editorial decision
+rather than the order the packs happened to be built in. Keep that shape when refilling.
+
+## The Yemen regulatory warning
+
+The Yemeni authority's own website (sbd-ye.org) was unreachable when checked on 2026-08-14, and
+almost everything published online about its requirements comes from consultancies selling
+registration services who contradict each other. No pack states a Yemen specific regulatory
+requirement, and articles must not either. Explain the international framework accurately, then
+say plainly that local specifics are confirmed case by case, and invite the reader to ask.
 
 ## Refilling the library
 

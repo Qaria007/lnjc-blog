@@ -17,3 +17,4 @@
 2026-08-14T04:39:29Z pack chosen: 03-premises-and-equipment.md, slug premises-and-equipment
 2026-08-14T04:42:30Z article written: ar/premises-and-equipment.html, index and sitemap updated, reciprocal link in warehouse-temperature-mapping.html
 2026-08-14T04:43:58Z published: ar/premises-and-equipment.html, commit 0f305189281b6d3648b526897824ad5be5d6ee5c, all gates passed
+2026-08-14T10:19:22Z  strategy applied: 4 English packs added, buyer facing Arabic packs added, queue reordered EN/EN/AR

@@ -6,6 +6,9 @@ URLs. You may NOT add any other source, claim, number or section reference that 
 file. If something you want to say is not supported below, either leave it out or write it as
 common industry practice without attributing it to a named document.
 
+Language: Arabic
+Output file: ar/premises-and-equipment.html
+Template to copy: ar/product-recall-and-withdrawal.html
 Suggested article slug: premises-and-equipment
 
 
