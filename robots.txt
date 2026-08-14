@@ -1,4 +1,4 @@
-# LNJC Insights — robots policy
+# LNJC Insights, robots policy
 # Traditional search engines: full access.
 User-agent: *
 Allow: /
