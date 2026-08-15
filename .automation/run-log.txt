@@ -25,3 +25,4 @@
 2026-08-15T01:10:37Z starting
 2026-08-15T01:10:50Z pack chosen: 05-en-authorised-importer.md -> en/authorised-importer-and-local-agent.html
 2026-08-15T01:13:32Z article drafted: en/authorised-importer-and-local-agent.html
+2026-08-15T01:14:15Z gates passed: no dashes, one title/h1, JSON-LD valid, sitemap valid, links verified
