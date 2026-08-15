@@ -142,6 +142,27 @@ Active pharmaceutical ingredients · Packaging materials · Healthcare distribut
 
 ---
 
+## Who has to do what, checked 2026-08-15
+
+Almost every directory below requires creating an account with an email address and a password
+before it will let you publish anything. Claude cannot create accounts or enter passwords, by
+design, because those credentials are yours and should stay that way.
+
+So the fast division of labour, the one that already worked for LinkedIn and the Hostinger site, is:
+
+1. **You sign in** to the site in Chrome. Two minutes: email, password, confirm.
+2. **You tell Claude the site is open and signed in.**
+3. **Claude fills in every field** from the blocks above, in both languages, and checks the result.
+
+Step 3 is the slow part and it is the part you should not be spending your evenings on.
+
+Two things already checked so you do not waste time:
+
+* **Yellow Pages Yemen** requires registration, and its "add listing" page currently returns a
+  500 server error. Skip it until that is fixed.
+* **Europages** needs a supplier account and puts a consent wall in front of the signup form.
+  Fine for you, impossible to automate.
+
 # The directories
 
 Do them in this order. The first three are worth more than all the rest combined.
