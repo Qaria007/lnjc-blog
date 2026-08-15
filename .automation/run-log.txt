@@ -26,3 +26,4 @@
 2026-08-15T01:10:50Z pack chosen: 05-en-authorised-importer.md -> en/authorised-importer-and-local-agent.html
 2026-08-15T01:13:32Z article drafted: en/authorised-importer-and-local-agent.html
 2026-08-15T01:14:15Z gates passed: no dashes, one title/h1, JSON-LD valid, sitemap valid, links verified
+2026-08-15T01:14:22Z published: commit 24e6081b65190f27e7b714a0bc8c9eae7b91de77, file en/authorised-importer-and-local-agent.html
