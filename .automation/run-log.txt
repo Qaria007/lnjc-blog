@@ -37,3 +37,4 @@
 2026-08-17T01:15:34Z published commit b3944dfdba1e1d55a9f7e78680943bc54373eb8b: en/importing-starting-materials.html
 2026-08-18T01:09:30Z starting
 2026-08-18T01:09:49Z pack 08 chosen: en/cold-chain-at-the-border.html
+2026-08-18T01:14:00Z article drafted: en/cold-chain-at-the-border.html
