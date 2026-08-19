@@ -41,3 +41,4 @@
 2026-08-18T01:15:00Z published: en/cold-chain-at-the-border.html commit fe56697fc7bda187b559852cdaa47c89b2c118aa
 2026-08-19T01:10:14Z starting
 2026-08-19T01:10:28Z pack chosen: 09-ar-buying-cold-chain-stock.md
+2026-08-19T01:13:48Z article drafted: ar/buying-cold-chain-stock.html, linked from ar/cold-chain-handling.html
