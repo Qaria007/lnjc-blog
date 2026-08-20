@@ -44,3 +44,4 @@
 2026-08-19T01:13:48Z article drafted: ar/buying-cold-chain-stock.html, linked from ar/cold-chain-handling.html
 2026-08-19T01:15:04Z published: 09e533c7c3f304028c1756340e8678c03c6d424b ar/buying-cold-chain-stock.html gates passed
 2026-08-20T01:10:11Z starting
+2026-08-20T01:10:30Z pack chosen: 10-ar-responsible-person-and-training.md -> ar/responsible-person-and-training.html
