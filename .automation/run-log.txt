@@ -47,3 +47,4 @@
 2026-08-20T01:10:30Z pack chosen: 10-ar-responsible-person-and-training.md -> ar/responsible-person-and-training.html
 2026-08-20T01:13:30Z article written: ar/responsible-person-and-training.html
 2026-08-20T01:14:31Z published: ar/responsible-person-and-training.html commit 78adf7f
+2026-08-21T01:10:31Z starting
