@@ -49,3 +49,5 @@
 2026-08-20T01:14:31Z published: ar/responsible-person-and-training.html commit 78adf7f
 2026-08-21T01:10:31Z starting
 2026-08-21T01:13:02Z pack 11 chosen: 11-ar-outsourced-activities.md -> ar/outsourced-activities.html
+2026-08-21T01:13:36Z article written: ar/outsourced-activities.html, integrated into index.html, sitemap.xml, llms.txt, linked with responsible-person-and-training.html
+2026-08-21T01:13:36Z published: ar/outsourced-activities.html, commit 805d8fd8acc183143e77e1ea725e1c9b5c9da4b9, all gates passed
