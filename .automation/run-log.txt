@@ -54,3 +54,4 @@
 2026-08-22T01:09:04Z starting
 2026-08-22T01:09:54Z chose pack 12, quality system and risk management, ar/quality-system-and-risk.html
 2026-08-22T01:12:30Z article written: ar/quality-system-and-risk.html, index/sitemap/llms updated, linked with outsourced-activities.html
+2026-08-22T01:13:17Z gates passed (dash check, title/h1 count, jsonld parse, sitemap xml, links exist); published commit 1531f1425b94d5144203897b6c2827db648df1a6 ar/quality-system-and-risk.html
