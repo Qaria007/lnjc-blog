@@ -52,3 +52,4 @@
 2026-08-21T01:13:36Z article written: ar/outsourced-activities.html, integrated into index.html, sitemap.xml, llms.txt, linked with responsible-person-and-training.html
 2026-08-21T01:13:36Z published: ar/outsourced-activities.html, commit 805d8fd8acc183143e77e1ea725e1c9b5c9da4b9, all gates passed
 2026-08-22T01:09:04Z starting
+2026-08-22T01:09:54Z chose pack 12, quality system and risk management, ar/quality-system-and-risk.html
