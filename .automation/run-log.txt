@@ -62,3 +62,4 @@
 2026-08-24T01:10:27Z starting
 2026-08-24T01:11:47Z pack chosen: 14-ar-operations-and-stock-control.md -> ar/operations-and-stock-control.html
 2026-08-24T01:15:30Z article written: ar/operations-and-stock-control.html, integrated into index.html/sitemap.xml/llms.txt, linked with premises-and-equipment
+2026-08-24T01:16:27Z gates passed, published ar/operations-and-stock-control.html at commit 4696924
