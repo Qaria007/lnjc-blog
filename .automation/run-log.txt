@@ -66,3 +66,4 @@
 2026-08-25T01:10:24Z starting
 2026-08-25T01:10:38Z pack chosen: 15-ar-complaints-handling
 2026-08-25T01:13:57Z article drafted: ar/complaints-handling.html
+2026-08-25T01:15:01Z gates passed: no dashes, single title and h1, JSON-LD and XML valid, all links resolve
