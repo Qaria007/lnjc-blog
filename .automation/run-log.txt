@@ -64,3 +64,4 @@
 2026-08-24T01:15:30Z article written: ar/operations-and-stock-control.html, integrated into index.html/sitemap.xml/llms.txt, linked with premises-and-equipment
 2026-08-24T01:16:27Z gates passed, published ar/operations-and-stock-control.html at commit 4696924
 2026-08-25T01:10:24Z starting
+2026-08-25T01:10:38Z pack chosen: 15-ar-complaints-handling
