@@ -69,3 +69,4 @@
 2026-08-25T01:15:01Z gates passed: no dashes, single title and h1, JSON-LD and XML valid, all links resolve
 2026-08-25T01:15:08Z published: 12463d9a94af370aade2b911071d73b611a0174f file: ar/complaints-handling.html
 2026-08-26T01:11:20Z starting
+2026-08-26T01:11:36Z pack chosen: 16-ar-self-inspection.md -> ar/self-inspection.html
