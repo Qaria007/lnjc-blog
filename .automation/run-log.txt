@@ -74,3 +74,4 @@
 2026-08-26T01:14:52Z gates passed, published ar/self-inspection.html, commit e77a4675c40f969dca5e768e1a10fd8753192fa7
 2026-08-27T01:11:48Z starting
 2026-08-27T01:11:48Z note: local branch was left detached from previous run, reattached main to origin/main (no content change, already deployed)
+2026-08-27T01:12:26Z pack chosen: 17-ar-brokers.md -> ar/brokers.html
