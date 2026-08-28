@@ -79,3 +79,4 @@
 2026-08-27T01:17:13Z gates passed: no dashes, single title and h1, JSON-LD and XML valid, all links resolve, procedure count consistency fixed
 2026-08-27T01:17:20Z run complete: commit 71ee189a3354a59121a79a19e7985be7b1166541, ar/brokers.html published
 2026-08-28T01:11:34Z starting
+2026-08-28T01:11:47Z all 17 source packs used, source library needs refilling, no article published this run
