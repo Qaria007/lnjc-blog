@@ -67,8 +67,9 @@ Items 1, 3 and 5 are the Yemen registration topics. Items 1 and 3 carry the accu
 the distribution agreement, is mostly commercial rather than regulatory and is included in this
 batch on that basis.
 
-The queue is nearly spent. Whoever refills the library should add new topics to `strategy.md` at
-the same time, or the next exhaustion is only six days away.
+The queue was refilled on 2026-09-10. `strategy.md` now carries nineteen topics, items 11 to 28,
+ordered two English to one Arabic. Items 11 to 16 are the six skeletons in this directory. Items 17
+onward are topics only and need skeletons as well as excerpts.
 
 ## Source documents worth mining
 
