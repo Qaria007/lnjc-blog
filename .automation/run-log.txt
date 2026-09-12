@@ -111,3 +111,4 @@
 2026-09-11T01:08:59Z starting
 2026-09-11T01:09:25Z pack selection: all 17 verified packs in .automation/sources/ have existing output files, source library exhausted, pending-packs/ only holds unverified skeletons that this no-internet container cannot verify, no article published this run
 2026-09-12T01:08:50Z starting
+2026-09-12T01:09:33Z pack selection: all 17 packs in .automation/sources/ have existing output files, source library exhausted, the 6 files in .automation/pending-packs/ are unverified skeletons marked DO NOT PUBLISH and declare "Proposed output file" so they are not selectable, verifying them needs outbound internet which this container does not have, no article published this run, 16th consecutive dry run, last article was ar/brokers.html on 2026-08-27
