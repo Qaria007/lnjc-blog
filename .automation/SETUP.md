@@ -6,7 +6,7 @@ LNJC; everything site specific lives in `.automation/site.json`, `.automation/co
 
 ## The model
 
-    refill routine (weekly, environment WITH internet)
+    refill routine (twice a week, environment WITH internet)
         opens primary documents, saves a text copy, builds numbered packs of verbatim excerpts,
         proves every excerpt is in the document, pushes packs to .automation/sources/
                                   |

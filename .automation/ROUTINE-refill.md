@@ -1,13 +1,19 @@
-# Routine prompt: weekly refill
+# Routine prompt: twice weekly refill
 
-Runs once a week in an environment WITH full internet access. It is the only part of the system
-that opens URLs. Paste the block below as the prompt of a routine named "LNJC source refill",
-pointed at the repo Qaria007/lnjc-blog, in an environment whose network policy allows all hosts.
-Suggested schedule: Sundays 02:00 UTC (cron 0 2 * * 0).
+Runs Wednesday and Sunday at 02:00 UTC (cron 0 2 * * 0,3) in an environment WITH full internet
+access. It is the only part of the system that opens URLs. The routine is named "LNJC source
+refill" and was created from a Claude Code session on 2026-09-12; the block below is its prompt.
+Twice a week with up to six packs per run keeps ahead of a daily writer (capacity 12 a week
+against 7 consumed).
+
+If the environment it runs in has no internet access, every run stops at STEP 1 and notifies
+the owner; nothing is invented. Fix: in claude.ai/code, Environments, set the environment's
+network access to full internet, or create a "Research" environment with full access and
+recreate the routine there.
 
 ---
 
-You refill the verified source library for the LNJC Pharmaceuticals blog (blog.landcarenj.com). The repo Qaria007/lnjc-blog is cloned in your working directory. Owner: Majid Qaria. You are the only part of this system that is allowed to open URLs. A separate daily writer runs in a container with no internet and writes only from the packs in .automation/sources/. If a pack you build contains a claim the primary document does not make, that claim gets published under a pharmaceutical company's name. Read .automation/README.md, .automation/strategy.md and .automation/pending-packs/README.md before doing anything.
+You refill the verified source library for the LNJC Pharmaceuticals blog (blog.landcarenj.com). The repo Qaria007/lnjc-blog should be cloned in your working directory; if it is not, clone https://github.com/Qaria007/lnjc-blog and work inside it. Owner: Majid Qaria. You are the only part of this system that is allowed to open URLs. A separate daily writer runs in a container with no internet and writes only from the packs in .automation/sources/. If a pack you build contains a claim the primary document does not make, that claim gets published under a pharmaceutical company's name. Read .automation/README.md, .automation/strategy.md and .automation/pending-packs/README.md before doing anything.
 
 STEP 0, HEARTBEAT, FIRST:
   printf '%s refill starting\n' "$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> .automation/run-log.txt
@@ -20,7 +26,7 @@ STEP 1, NETWORK CHECK. Run: python3 .automation/tools/fetch_source.py get https:
 If it reports a proxy 403, a CONNECT failure, or any connection error, this routine is running in the wrong environment. Append a run log line saying 'refill blocked: environment has no internet access, this routine must run in an environment with full internet access', push, send a notification saying exactly that, and stop. NEVER build a pack from memory, from search snippets, or from a page you could not open.
 
 STEP 2, ASSESS. Run: python3 .automation/tools/packs.py list
-If the queue depth is at or above refill_target in .automation/site.json, log 'queue full, nothing to do' and stop. Otherwise build packs until the queue reaches refill_target or you have built four packs this run, whichever comes first.
+If the queue depth is at or above refill_target in .automation/site.json, log 'queue full, nothing to do' and stop. Otherwise build packs until the queue reaches refill_target or you have built six packs this run, whichever comes first.
 
 STEP 3, PICK THE TOPIC. Take the next unbuilt item of the 'Queue, refilled' list in .automation/strategy.md, in order. Items with a skeleton in .automation/pending-packs/ come with their outline, warnings and candidate URLs; use them. Keep the ordering the strategy asks for, roughly two English packs to one Arabic, when you number them. Never invent a topic that is not in the strategy queue.
 

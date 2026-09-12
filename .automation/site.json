@@ -11,7 +11,7 @@
   "sitemap_file": "sitemap.xml",
   "llms_file": "llms.txt",
   "min_queue": 5,
-  "refill_target": 10,
+  "refill_target": 12,
   "languages": {
     "English": {
       "code": "en-GB",

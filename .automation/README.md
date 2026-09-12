@@ -3,7 +3,7 @@
 Two scheduled Claude routines and a small toolkit publish the articles on blog.landcarenj.com.
 Pushing to `main` deploys the live site.
 
-    refill routine, weekly, in an environment WITH internet
+    refill routine, Wednesdays and Sundays, in an environment WITH internet
         opens the primary documents, saves a text copy, builds numbered packs of verbatim
         excerpts in sources/, proves every excerpt is in the document, pushes
                                   |
@@ -34,7 +34,7 @@ excerpts copied from the primary documents themselves. It may cite only what is 
 
 The library ran dry on 2026-08-27 and the writer published nothing for sixteen days, because
 refilling was a manual step that depended on somebody opening a session on a machine with
-internet access. The refill routine removes that dependency: it runs weekly in a second cloud
+internet access. The refill routine removes that dependency: it runs twice a week in a cloud
 environment whose network policy allows all hosts, fetches each document with
 `tools/fetch_source.py`, and may only move a pack into `sources/` once
 `tools/packs.py validate --require-cache` has proved that every quoted passage is a substring of
