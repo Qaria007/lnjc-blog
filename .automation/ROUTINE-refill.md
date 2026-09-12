@@ -25,12 +25,12 @@ STEP 0, HEARTBEAT, FIRST:
 If the push is rejected, fetch origin main, reattach to main, merge and push again. Append a run log line after each pack and push it. Never batch these to the end.
 
 STEP 1, NETWORK CHECK. Run: python3 .automation/tools/fetch_source.py get https://www.who.int/ --name probe
-If it reports a proxy 403, a CONNECT failure, or any connection error, this routine is running in the wrong environment. Append a run log line saying 'refill blocked: environment has no internet access, this routine must run in an environment with full internet access', push, send a notification saying exactly that, and stop. NEVER build a pack from memory, from search snippets, or from a page you could not open.
+If it reports a proxy 403, a CONNECT failure, or any connection error, this routine is running in the wrong environment. Append a run log line saying 'refill blocked: environment has no internet access, this routine must run in an environment with full internet access', push, send a notification saying exactly that and that the fix is to set the environment's network access to full internet in claude.ai/code, and stop. NEVER build a pack from memory, from search snippets, or from a page you could not open.
 
 STEP 2, ASSESS. Run: python3 .automation/tools/packs.py list
 If the queue depth is at or above refill_target in .automation/site.json, log 'queue full, nothing to do' and stop. Otherwise build packs until the queue reaches refill_target or you have built six packs this run, whichever comes first.
 
-STEP 3, PICK THE TOPIC. Take the next unbuilt item of the 'Queue, refilled' list in .automation/strategy.md, in order. Items with a skeleton in .automation/pending-packs/ come with their outline, warnings and candidate URLs; use them. Keep the ordering the strategy asks for, roughly two English packs to one Arabic, when you number them. Never invent a topic that is not in the strategy queue.
+STEP 3, PICK THE TOPIC. Take the next unbuilt item of the 'Queue, refilled' list in .automation/strategy.md, in order. Items with a skeleton in .automation/pending-packs/ come with their outline, warnings and candidate URLs; use them. Keep the ordering the strategy asks for, roughly two English packs to one Arabic, when you number them. Never invent a topic that is not in the strategy queue. If the strategy queue is exhausted, log 'strategy queue exhausted, owner must add topics', notify, and stop.
 
 STEP 4, FETCH. Once per run: pip install pypdf. Then for every candidate URL:
   python3 .automation/tools/fetch_source.py get URL --name "Issuing body, document title, series and year"
