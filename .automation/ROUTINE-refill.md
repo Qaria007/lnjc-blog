@@ -2,7 +2,9 @@
 
 Runs Wednesday and Sunday at 02:00 UTC (cron 0 2 * * 0,3) in an environment WITH full internet
 access. It is the only part of the system that opens URLs. The routine is named "LNJC source
-refill" and was created from a Claude Code session on 2026-09-12; the block below is its prompt.
+refill" (trigger id trig_01F7273A18VBMv683NpDeXgK) and was created from a Claude Code session on
+2026-09-12; the block below is its prompt. A routine created that way carries no repo attachment,
+which is why the prompt tells the session to clone the repo if it is not already there.
 Twice a week with up to six packs per run keeps ahead of a daily writer (capacity 12 a week
 against 7 consumed).
 
