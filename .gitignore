@@ -1,0 +1,4 @@
+# Fetched copies of primary documents used to check pack excerpts. Rebuilt by
+# .automation/tools/fetch_source.py on the machine that refills the library; never published.
+.automation/sources/cache/
+__pycache__/

@@ -1,0 +1,44 @@
+{
+  "site_name": "LNJC Insights",
+  "base_url": "https://blog.landcarenj.com",
+  "author": "LNJC Pharmaceuticals and Medical Supplies Co., Ltd.",
+  "sources_dir": ".automation/sources",
+  "pending_dir": ".automation/pending-packs",
+  "cache_dir": ".automation/sources/cache",
+  "company_facts_file": ".automation/company-facts.md",
+  "run_log": ".automation/run-log.txt",
+  "index_file": "index.html",
+  "sitemap_file": "sitemap.xml",
+  "llms_file": "llms.txt",
+  "min_queue": 5,
+  "refill_target": 10,
+  "languages": {
+    "English": {
+      "code": "en-GB",
+      "dir": "ltr",
+      "output_prefix": "en/",
+      "template": "en/entering-the-yemen-market.html",
+      "index_heading": "For manufacturers · English",
+      "llms_heading": "## Articles (English, for international manufacturers)",
+      "words": [900, 1300],
+      "bdi_required": false
+    },
+    "Arabic": {
+      "code": "ar",
+      "dir": "rtl",
+      "output_prefix": "ar/",
+      "template": "ar/product-recall-and-withdrawal.html",
+      "index_heading": "للسوق اليمني · العربية",
+      "llms_heading": "## Articles (Arabic, for the Yemeni market)",
+      "words": [800, 1100],
+      "bdi_required": true
+    }
+  },
+  "forbidden_chars": {
+    "em dash": "U+2014",
+    "en dash": "U+2013"
+  },
+  "required_jsonld_types": ["BlogPosting", "BreadcrumbList", "FAQPage"],
+  "faq_count": 4,
+  "stats_count": 3
+}
