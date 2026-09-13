@@ -59,7 +59,8 @@ Items 11 to 16 already have skeletons in `.automation/pending-packs/`, which car
 the warnings, the company facts and the candidate sources. They still need their verbatim
 excerpts before they can move into `sources/`. Items 17 onward are topics only.
 
-11. What to check before you appoint a distributor in a new market (EN). Skeleton A.
+11. What to check before you appoint a distributor in a new market (EN). Pack 18,
+    `en/qualifying-a-distributor.html` (not yet published by the writer).
 12. What belongs in an exclusive distribution agreement (EN). Skeleton B.
 13. تأهيل الموردين والعملاء (AR). Skeleton E.
 14. Temperature excursions in transit, and the evidence you should expect (EN). Skeleton C.
