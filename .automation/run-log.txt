@@ -121,3 +121,4 @@
 2026-09-13T01:44:02Z pack 19 built: en/distribution-agreement-essentials.html (distribution agreement essentials, EN), sources EU GDP 2013/C 343/01 + WHO TRS 1025 Annex 7, HTTP 200
 2026-09-13T01:45:15Z pack 20 built: ar/supplier-and-customer-qualification.html (supplier and customer qualification, AR), sources EU GDP 2013/C 343/01 + WHO TRS 1025 Annex 7, HTTP 200
 2026-09-13T01:46:53Z pack 21 built: en/temperature-excursion-evidence.html (temperature excursion evidence, EN), sources EU GDP 2013/C 343/01 + WHO TRS 961 Annex 9, HTTP 200
+2026-09-13T01:48:36Z pack 22 built: en/recall-across-a-border.html (recall across a border, EN), sources EU GDP 2013/C 343/01 + WHO TRS 1025 Annex 7 + WHO TRS 1019 Annex 5 + WHO TRS 961 Annex 9, HTTP 200
