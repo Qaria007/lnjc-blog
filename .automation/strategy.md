@@ -63,7 +63,8 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
     `en/qualifying-a-distributor.html` (not yet published by the writer).
 12. What belongs in an exclusive distribution agreement (EN). Pack 19,
     `en/distribution-agreement-essentials.html` (not yet published by the writer).
-13. تأهيل الموردين والعملاء (AR). Skeleton E.
+13. تأهيل الموردين والعملاء (AR). Pack 20,
+    `ar/supplier-and-customer-qualification.html` (not yet published by the writer).
 14. Temperature excursions in transit, and the evidence you should expect (EN). Skeleton C.
 15. Recalling a batch you have already exported (EN). Skeleton D.
 16. تخزين الأدوية في الصيدلية والمستشفى (AR). Skeleton F.
