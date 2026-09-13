@@ -87,8 +87,9 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
     `en/certificate-of-a-pharmaceutical-product.html` (not yet published by the writer).
     Source: WHO TRS 1033 Annex 9, on implementation of the WHO Certification Scheme.
     Careful: describe the scheme itself, never what Yemen requires of it.
-21. Air freight or sea freight for temperature sensitive product (EN).
-    Source: WHO TRS 961 Annex 9.
+21. Air freight or sea freight for temperature sensitive product (EN). Pack 28,
+    `en/air-or-sea-freight-for-temperature-sensitive-product.html` (not yet published by the
+    writer). Source: WHO TRS 961 Annex 9.
 22. سلسلة التبريد أثناء انقطاع الكهرباء (AR, buyer facing). Source: WHO TRS 961 Annex 9, the
     contingency and emergency sections. Genuinely useful for Yemeni pharmacies and clinics and
     almost certainly not written anywhere else in Arabic for this audience.
