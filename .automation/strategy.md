@@ -69,7 +69,8 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
     `en/temperature-excursion-evidence.html` (not yet published by the writer).
 15. Recalling a batch you have already exported (EN). Pack 22,
     `en/recall-across-a-border.html` (not yet published by the writer).
-16. تخزين الأدوية في الصيدلية والمستشفى (AR). Skeleton F.
+16. تخزين الأدوية في الصيدلية والمستشفى (AR). Pack 23,
+    `ar/storage-at-pharmacy-and-hospital.html` (not yet published by the writer).
 17. How much remaining shelf life to ship, and what a buyer should insist on (EN).
     Source: WHO TRS 1025 Annex 8, points to consider for remaining shelf life.
 18. Stability data for hot and humid markets, and why climate zone IVb matters to your dossier
