@@ -67,7 +67,8 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
     `ar/supplier-and-customer-qualification.html` (not yet published by the writer).
 14. Temperature excursions in transit, and the evidence you should expect (EN). Pack 21,
     `en/temperature-excursion-evidence.html` (not yet published by the writer).
-15. Recalling a batch you have already exported (EN). Skeleton D.
+15. Recalling a batch you have already exported (EN). Pack 22,
+    `en/recall-across-a-border.html` (not yet published by the writer).
 16. تخزين الأدوية في الصيدلية والمستشفى (AR). Skeleton F.
 17. How much remaining shelf life to ship, and what a buyer should insist on (EN).
     Source: WHO TRS 1025 Annex 8, points to consider for remaining shelf life.
