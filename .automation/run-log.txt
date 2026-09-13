@@ -123,3 +123,4 @@
 2026-09-13T01:46:53Z pack 21 built: en/temperature-excursion-evidence.html (temperature excursion evidence, EN), sources EU GDP 2013/C 343/01 + WHO TRS 961 Annex 9, HTTP 200
 2026-09-13T01:48:36Z pack 22 built: en/recall-across-a-border.html (recall across a border, EN), sources EU GDP 2013/C 343/01 + WHO TRS 1025 Annex 7 + WHO TRS 1019 Annex 5 + WHO TRS 961 Annex 9, HTTP 200
 2026-09-13T01:50:22Z pack 23 built: ar/storage-at-pharmacy-and-hospital.html (storage at pharmacy and hospital, AR), sources WHO TRS 1025 Annex 7 + WHO TRS 961 Annex 9, HTTP 200
+2026-09-13T01:50:40Z refill run complete: 6 packs built (18 en-qualifying-a-distributor, 19 en-distribution-agreement-essentials, 20 ar-supplier-and-customer-qualification, 21 en-temperature-excursion-evidence, 22 en-recall-across-a-border, 23 ar-storage-at-pharmacy-and-hospital), queue depth 6 (min wanted 5, refill_target 12), hit the six-pack-per-run cap
