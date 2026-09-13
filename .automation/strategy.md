@@ -90,7 +90,9 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
 21. Air freight or sea freight for temperature sensitive product (EN). Pack 28,
     `en/air-or-sea-freight-for-temperature-sensitive-product.html` (not yet published by the
     writer). Source: WHO TRS 961 Annex 9.
-22. سلسلة التبريد أثناء انقطاع الكهرباء (AR, buyer facing). Source: WHO TRS 961 Annex 9, the
+22. سلسلة التبريد أثناء انقطاع الكهرباء (AR, buyer facing). Pack 29,
+    `ar/cold-chain-during-power-outages.html` (not yet published by the writer).
+    Source: WHO TRS 961 Annex 9, the
     contingency and emergency sections. Genuinely useful for Yemeni pharmacies and clinics and
     almost certainly not written anywhere else in Arabic for this audience.
 23. Packaging and labelling a pharmaceutical export shipment (EN).
