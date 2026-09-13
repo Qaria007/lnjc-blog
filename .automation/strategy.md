@@ -83,7 +83,8 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
 19. مدة الصلاحية المتبقية عند الاستلام (AR, buyer facing). Pack 26,
     `ar/remaining-shelf-life-on-receipt.html` (not yet published by the writer).
     Source: WHO TRS 1025 Annex 8. Pairs with item 17.
-20. The certificate of a pharmaceutical product, what it is and what it is not (EN).
+20. The certificate of a pharmaceutical product, what it is and what it is not (EN). Pack 27,
+    `en/certificate-of-a-pharmaceutical-product.html` (not yet published by the writer).
     Source: WHO TRS 1033 Annex 9, on implementation of the WHO Certification Scheme.
     Careful: describe the scheme itself, never what Yemen requires of it.
 21. Air freight or sea freight for temperature sensitive product (EN).
