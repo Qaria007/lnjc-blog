@@ -75,7 +75,8 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
     `en/remaining-shelf-life-at-shipment.html` (not yet published by the writer).
     Source: WHO TRS 1025 Annex 8, points to consider for remaining shelf life.
 18. Stability data for hot and humid markets, and why climate zone IVb matters to your dossier
-    (EN). Source: WHO TRS 1010 Annex 10, and the stability conditions table at TRS 953 Annex 2
+    (EN). Pack 25, `en/stability-data-for-hot-humid-markets.html` (not yet published by the
+    writer). Source: WHO TRS 1010 Annex 10, and the stability conditions table at TRS 953 Annex 2
     Appendix 1. High value, this is a question manufacturers actually get wrong about the region.
     An Arabic treatment already exists at `ar/climate-zone-ivb-stability-data.html`, so write this
     for the manufacturer, not the analyst.
