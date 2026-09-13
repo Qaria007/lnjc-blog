@@ -125,3 +125,4 @@
 2026-09-13T01:50:22Z pack 23 built: ar/storage-at-pharmacy-and-hospital.html (storage at pharmacy and hospital, AR), sources WHO TRS 1025 Annex 7 + WHO TRS 961 Annex 9, HTTP 200
 2026-09-13T01:50:40Z refill run complete: 6 packs built (18 en-qualifying-a-distributor, 19 en-distribution-agreement-essentials, 20 ar-supplier-and-customer-qualification, 21 en-temperature-excursion-evidence, 22 en-recall-across-a-border, 23 ar-storage-at-pharmacy-and-hospital), queue depth 6 (min wanted 5, refill_target 12), hit the six-pack-per-run cap
 2026-09-13T02:08:54Z refill starting
+2026-09-13T03:10:27Z pack 24 built
