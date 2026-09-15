@@ -8,8 +8,9 @@ Pushing to `main` deploys the live site.
         excerpts in sources/, proves every excerpt is in the document, pushes
                                   |
                                   v
-    writer routine, daily, in the Default environment WITHOUT internet
+    writer routine, every second day, no research of any kind
         takes the lowest numbered unused pack, writes one article from that pack only,
+        using the search brief the refill routine put in that pack,
         wires it into the site, runs the gates, pushes to main
 
 The prompts are in `ROUTINE-refill.md` and `ROUTINE-daily.md`. `SETUP.md` explains how to
@@ -62,6 +63,12 @@ Each pack declares, near the top:
     Output file: en/<slug>.html or ar/<slug>.html
     Template to copy: an existing article to match structurally
     Suggested article slug: <slug>
+    Target query: the phrase a buyer would type, set by the refill routine from Semrush
+    AEO question: that query as a question, becomes the lede answer and the first FAQ item
+    Search notes: volume or intent, and secondary phrases worth using as h2 headings
+
+The last three are newer than packs 01 to 29, so older packs do not carry them. The writer
+derives its own when they are missing and records in the run log that it did.
 
 then a `STATUS: VERIFIED` line, the audience warning, the VERIFIED COMPANY FACTS block, and one
 `## SOURCE:` block per document with `URL to cite:`, `Verified: YYYY-MM-DD (HTTP 200)` and the
@@ -78,6 +85,19 @@ invents a topic.
 Per `strategy.md`, English articles aimed at manufacturers looking for a Yemen distributor are
 the highest value content and were badly under-represented. The queue is ordered roughly one
 Arabic piece per two English ones. Keep that shape when refilling.
+
+## Who does the search work, and why it is not the writer
+
+Search research lives in the refill routine, which has the network and the Semrush connector. It
+writes the target query and the AEO question into each pack. The writer reads those lines and
+never researches anything itself. njmc-site-public splits the same job the same way, and its
+writer prompt states the rule plainly: it does not choose or score topics, because the queue order
+comes from a separate review that has network access.
+
+The reason is the same reason the source packs exist at all. Keyword tools are a legitimate input
+to wording, emphasis and headings. They are not an input to what the article asserts. Keeping them
+in a different routine from the writing makes it structurally hard for a keyword to turn into a
+claim. Semrush decides how a thing is said; the primary documents decide whether it is true.
 
 ## The Yemen regulatory warning
 
