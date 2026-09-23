@@ -138,3 +138,4 @@
 2026-09-20T02:05:08Z refill starting
 2026-09-20T02:06:18Z queue full, nothing to do (queue depth 12, refill_target 12)
 2026-09-23T08:18:39Z starting
+2026-09-23T08:22:33Z pack 18 published: en/qualifying-a-distributor.html (qualifying a distributor, EN), derived target query/AEO question (pack had none), gates 0 errors, commit aac12c8f6f7cf7c81fa47a51f7de95f068b71968
