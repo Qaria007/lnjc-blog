@@ -144,3 +144,4 @@
 2026-09-25T01:13:00Z article written to en/distribution-agreement-essentials.html, integrated via integrate.py, reciprocal link added to/from en/qualifying-a-distributor.html
 2026-09-25T01:14:00Z gates.py passed with 0 errors, 0 warnings (word count 1479)
 2026-09-25T01:20:00Z BLOCKED: direct push to main was denied by this session's auto-mode safety classifier (reason: Production Deploy). Article en/distribution-agreement-essentials.html is complete, gates passed (0 errors, 0 warnings), and all work is pushed to branch claude/gracious-feynman-pnbyur at commit 1ad6960. Opening a PR from that branch to main for the owner to merge and publish.
+2026-09-25T01:22:00Z opened PR #3 (https://github.com/Qaria007/lnjc-blog/pull/3) from claude/gracious-feynman-pnbyur to main, awaiting owner merge to publish en/distribution-agreement-essentials.html
