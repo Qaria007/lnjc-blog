@@ -95,8 +95,10 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
     Source: WHO TRS 961 Annex 9, the
     contingency and emergency sections. Genuinely useful for Yemeni pharmacies and clinics and
     almost certainly not written anywhere else in Arabic for this audience.
-23. Packaging and labelling a pharmaceutical export shipment (EN).
-    Sources: EU GDP 2013/C 343/01 section 9.3, WHO TRS 1025 Annex 7.
+23. Packaging and labelling a pharmaceutical export shipment (EN). Pack 30,
+    `en/packaging-and-labelling-export-shipment.html` (not yet published by the writer).
+    Sources: WHO TRS 1025 Annex 7 only. EU GDP 2013/C 343/01 section 9.3 could not be verified
+    on 2026-09-25 (EUR-Lex returned HTTP 202 on every URL form tried); retry on a future refill.
 24. Reducing the falsified medicine risk when you enter a new market (EN).
     Source: WHO TRS 1019 Annex 5. Arabic treatment exists at
     `ar/falsified-and-substandard-medicines.html`, so write this for the exporter.
