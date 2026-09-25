@@ -140,3 +140,6 @@
 2026-09-23T08:18:39Z starting
 2026-09-23T08:22:33Z pack 18 published: en/qualifying-a-distributor.html (qualifying a distributor, EN), derived target query/AEO question (pack had none), gates 0 errors, commit aac12c8f6f7cf7c81fa47a51f7de95f068b71968
 2026-09-25T01:12:56Z starting
+2026-09-25T01:12:00Z pack selected: 19-en-distribution-agreement-essentials.md (English), no Target query/AEO question lines in pack, derived: target query "pharmaceutical distribution agreement checklist", AEO question "What should a pharmaceutical distribution agreement include?"
+2026-09-25T01:13:00Z article written to en/distribution-agreement-essentials.html, integrated via integrate.py, reciprocal link added to/from en/qualifying-a-distributor.html
+2026-09-25T01:14:00Z gates.py passed with 0 errors, 0 warnings (word count 1479)
