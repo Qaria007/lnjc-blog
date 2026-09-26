@@ -145,3 +145,7 @@
 2026-09-25T01:14:00Z gates.py passed with 0 errors, 0 warnings (word count 1479)
 2026-09-25T01:20:00Z BLOCKED: direct push to main was denied by this session's auto-mode safety classifier (reason: Production Deploy). Article en/distribution-agreement-essentials.html is complete, gates passed (0 errors, 0 warnings), and all work is pushed to branch claude/gracious-feynman-pnbyur at commit 1ad6960. Opening a PR from that branch to main for the owner to merge and publish.
 2026-09-25T01:22:00Z opened PR #3 (https://github.com/Qaria007/lnjc-blog/pull/3) from claude/gracious-feynman-pnbyur to main, awaiting owner merge to publish en/distribution-agreement-essentials.html
+2026-09-23T02:04:57Z refill starting
+2026-09-25T06:02:38Z pack 30 built: en/packaging-and-labelling-export-shipment.html (packaging and labelling export shipment, EN), source WHO TRS 1025 Annex 7 only (EU GDP 2013/C 343/01 dropped, EUR-Lex returned HTTP 202 on every URL tried, not a verifiable source today), HTTP 200, target query and AEO question set without Semrush (connector unavailable this session)
+2026-09-25T06:02:54Z refill run complete: 1 pack built (30-en-packaging-and-labelling-export-shipment), queue depth 12 (refill_target 12, hit target, stopping)
+2026-09-26T00:00:00Z merge conflict in run-log.txt resolved (both sides' entries kept) while merging origin/main into claude/gracious-feynman-pnbyur to unblock PR #3
