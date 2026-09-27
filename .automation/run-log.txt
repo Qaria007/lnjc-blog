@@ -150,3 +150,4 @@
 2026-09-25T06:02:54Z refill run complete: 1 pack built (30-en-packaging-and-labelling-export-shipment), queue depth 12 (refill_target 12, hit target, stopping)
 2026-09-26T00:00:00Z merge conflict in run-log.txt resolved (both sides' entries kept) while merging origin/main into claude/gracious-feynman-pnbyur to unblock PR #3
 2026-09-27T01:12:03Z starting
+2026-09-27T01:12:12Z pack selected: 20-ar-supplier-and-customer-qualification.md -> ar/supplier-and-customer-qualification.html
