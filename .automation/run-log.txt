@@ -152,3 +152,4 @@
 2026-09-27T01:12:03Z starting
 2026-09-27T01:12:12Z pack selected: 20-ar-supplier-and-customer-qualification.md -> ar/supplier-and-customer-qualification.html
 2026-09-27T01:16:13Z pack had no Target query/AEO question lines; derived locally: target query "تأهيل الموردين والعملاء في التوزيع الدوائي", AEO question "كيف يؤهّل الموزّع الدوائي مورديه وعملاءه؟"
+2026-09-27T01:17:16Z published: ar/supplier-and-customer-qualification.html commit 4acad83292e96149f0ea2a8542ca88c7315eb6ec
