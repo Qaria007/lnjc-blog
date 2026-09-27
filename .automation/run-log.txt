@@ -155,3 +155,4 @@
 2026-09-27T01:17:16Z published: ar/supplier-and-customer-qualification.html commit 4acad83292e96149f0ea2a8542ca88c7315eb6ec
 2026-09-27T02:08:08Z refill starting
 2026-09-27T17:16:37Z pack 31 built: reducing-falsified-medicine-risk (EN), WHO TRS 1019 Annex 5, verified HTTP 200
+2026-09-27T17:17:50Z pack 32 built: safe-disposal-of-expired-medicines (AR), WHO TRS 1025 Annex 7 + WHO medicine donation guidelines, verified HTTP 200
