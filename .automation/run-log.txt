@@ -160,3 +160,4 @@
 2026-09-29T01:13:07Z starting
 2026-09-29T01:14:07Z pack 21 chosen (EN temperature-excursion-evidence); no Target query lines in pack, derived query and AEO question myself; article written
 2026-09-29T01:14:27Z gates passed, pushing pack 21 article en/temperature-excursion-evidence.html
+2026-09-29T01:14:30Z published ef6f6ba en/temperature-excursion-evidence.html
