@@ -162,3 +162,5 @@
 2026-09-29T01:14:27Z gates passed, pushing pack 21 article en/temperature-excursion-evidence.html
 2026-09-29T01:14:30Z published ef6f6ba en/temperature-excursion-evidence.html
 2026-10-01T01:12:03Z starting
+2026-10-01T01:12:50Z pack 22 chosen (EN recall-across-a-border); no Target query lines in pack, derived query and AEO question myself; article written
+2026-10-01T01:13:06Z gates passed, pushing pack 22 article en/recall-across-a-border.html
