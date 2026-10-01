@@ -106,8 +106,10 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
 25. التخلص الآمن من الأدوية منتهية الصلاحية (AR). Pack 32,
     `ar/safe-disposal-of-expired-medicines.html` (not yet published by the writer). Sources:
     WHO TRS 1025 Annex 7, and the disposal guidance in the WHO medicine donation guidelines.
-26. Qualifying a freight forwarder for pharmaceutical cargo (EN).
-    Sources: EU GDP chapters 7 and 9, WHO TRS 961 Annex 9.
+26. Qualifying a freight forwarder for pharmaceutical cargo (EN). Pack 33,
+    `en/qualifying-a-freight-forwarder.html` (not yet published by the writer).
+    Sources: EU GDP chapters 7 and 9 (Commission copy at health.ec.europa.eu, because EUR-Lex
+    still returned HTTP 202 on 2026-10-01), WHO TRS 961 Annex 9.
 27. Returns from a distant market, and what you can actually take back (EN).
     Sources: EU GDP chapter 6, WHO TRS 1025 Annex 7.
 28. Donating medicines to a market like Yemen, and what the WHO guidelines ask of the donor (EN).
