@@ -165,3 +165,4 @@
 2026-10-01T05:20:22Z pack 33 built (33-en-qualifying-a-freight-forwarder), validated 0 errors; set without Semrush (connector not available), owner should attach it; EUR-Lex still HTTP 202, used health.ec.europa.eu copy
 2026-10-01T05:20:22Z refill complete: 1 pack built (33-en-qualifying-a-freight-forwarder), queue depth now 12 (target 12)
 2026-10-03T01:11:40Z starting
+2026-10-03T01:12:11Z pack 22 en/recall-across-a-border.html chosen; no Target query or AEO question in pack, derived both myself
