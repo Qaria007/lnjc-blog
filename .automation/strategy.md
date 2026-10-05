@@ -114,7 +114,8 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
     `en/returns-from-a-distant-market.html` (not yet published by the writer).
     Source: WHO TRS 1025 Annex 7 section 9 only. EU GDP chapter 6 could not be quoted verbatim
     (the Commission PDF extracts in interleaved columns, EUR-Lex returned HTTP 202 on 2026-10-05).
-28. Donating medicines to a market like Yemen, and what the WHO guidelines ask of the donor (EN).
+28. Donating medicines to a market like Yemen, and what the WHO guidelines ask of the donor (EN). Pack 35,
+    `en/donating-medicines-who-guidelines.html` (not yet published by the writer).
     Source: WHO Guidelines for medicine donations, revised 2010. Distinctive, directly relevant to
     Yemen, and something no consultancy page covers well. Write it as guidance to donors, not as a
     pitch, and do not claim LNJC handles donations unless that becomes a verified company fact.
