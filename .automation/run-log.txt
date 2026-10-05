@@ -169,3 +169,4 @@
 2026-10-03T01:13:28Z published 4186e4e en/recall-across-a-border.html
 2026-10-05T01:12:13Z starting
 2026-10-05T01:13:33Z pack 23 ar/storage-at-pharmacy-and-hospital.html chosen; no Target query or AEO question in pack, derived both myself
+2026-10-05T01:13:55Z published 2bc7f3c ar/storage-at-pharmacy-and-hospital.html, gates 0 errors; queue depth 10
