@@ -110,8 +110,10 @@ excerpts before they can move into `sources/`. Items 17 onward are topics only.
     `en/qualifying-a-freight-forwarder.html` (not yet published by the writer).
     Sources: EU GDP chapters 7 and 9 (Commission copy at health.ec.europa.eu, because EUR-Lex
     still returned HTTP 202 on 2026-10-01), WHO TRS 961 Annex 9.
-27. Returns from a distant market, and what you can actually take back (EN).
-    Sources: EU GDP chapter 6, WHO TRS 1025 Annex 7.
+27. Returns from a distant market, and what you can actually take back (EN). Pack 34,
+    `en/returns-from-a-distant-market.html` (not yet published by the writer).
+    Source: WHO TRS 1025 Annex 7 section 9 only. EU GDP chapter 6 could not be quoted verbatim
+    (the Commission PDF extracts in interleaved columns, EUR-Lex returned HTTP 202 on 2026-10-05).
 28. Donating medicines to a market like Yemen, and what the WHO guidelines ask of the donor (EN).
     Source: WHO Guidelines for medicine donations, revised 2010. Distinctive, directly relevant to
     Yemen, and something no consultancy page covers well. Write it as guidance to donors, not as a
