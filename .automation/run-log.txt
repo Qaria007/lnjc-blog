@@ -177,3 +177,4 @@
 2026-10-10T16:27:35Z starting
 2026-10-10T16:27:45Z step1 pack 24-en-remaining-shelf-life-at-shipment.md chosen, queue depth 12
 2026-10-10T16:27:45Z step2 no Target query/AEO lines in pack, derived both from title and outline
+2026-10-10T16:29:03Z step3 article written en/remaining-shelf-life-at-shipment.html
