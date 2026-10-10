@@ -174,3 +174,4 @@
 2026-10-05T06:23:27Z pack 34 en/returns-from-a-distant-market.html built, 1 source (WHO TRS 1025 Annex 7, HTTP 200), validate 0 errors; target set without Semrush, no live data, connector not available
 2026-10-05T06:24:48Z pack 35 en/donating-medicines-who-guidelines.html built, 1 source (WHO Guidelines for Medicine Donations 2010 via iris.who.int bitstream, HTTP 200; the iris handle PDF URL returned an HTML shell so the real file URL was taken from the who.int item page), validate 0 errors; target set without Semrush, no live data
 2026-10-05T06:24:55Z refill done: built packs 34, 35; queue depth 12 (target 12); strategy queue exhausted after item 28, owner must add topics before the next refill; Semrush not available, queries set without live data
+2026-10-10T16:27:35Z starting
