@@ -184,3 +184,4 @@
 2026-10-11T01:06:31Z step1 pack 25-en-stability-data-hot-humid-markets.md chosen, queue depth 11
 2026-10-11T01:06:31Z step2 no Target query/AEO lines in pack, derived both from title and outline
 2026-10-11T01:07:52Z step3 article written en/stability-data-for-hot-humid-markets.html
+2026-10-11T01:08:12Z step4-5 integrated, backlink from en/remaining-shelf-life-at-shipment.html, gates 0 errors 0 warnings
