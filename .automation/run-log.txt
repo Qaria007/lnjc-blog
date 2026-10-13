@@ -191,3 +191,4 @@
 2026-10-13T01:04:14Z step2 no Target query/AEO lines in pack, derived both from title and outline
 2026-10-13T01:05:54Z step3 article written ar/remaining-shelf-life-on-receipt.html
 2026-10-13T01:06:15Z step4-5 integrated, backlink from ar/operations-and-stock-control.html, gates 0 errors 0 warnings
+2026-10-13T01:06:17Z published bd9f712 ar/remaining-shelf-life-on-receipt.html; queue depth 9
