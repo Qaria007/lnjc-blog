@@ -193,3 +193,5 @@
 2026-10-13T01:06:15Z step4-5 integrated, backlink from ar/operations-and-stock-control.html, gates 0 errors 0 warnings
 2026-10-13T01:06:17Z published bd9f712 ar/remaining-shelf-life-on-receipt.html; queue depth 9
 2026-10-15T01:03:59Z starting
+2026-10-15T01:04:13Z step1 pack 27-en-certificate-of-a-pharmaceutical-product.md chosen, queue depth 9
+2026-10-15T01:04:13Z step2 no Target query/AEO lines in pack, derived both from title and outline
