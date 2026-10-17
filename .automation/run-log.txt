@@ -199,3 +199,5 @@
 2026-10-15T01:06:05Z step4-5 integrated, backlink from en/authorised-importer-and-local-agent.html, gates 0 errors 0 warnings
 2026-10-15T01:06:08Z published c2e857e en/certificate-of-a-pharmaceutical-product.html; queue depth 8
 2026-10-17T01:04:02Z starting
+2026-10-17T01:04:09Z step1 pack 28-en-air-or-sea-freight.md chosen, queue depth 8
+2026-10-17T01:04:09Z step2 no Target query/AEO lines in pack, derived both from title and outline
