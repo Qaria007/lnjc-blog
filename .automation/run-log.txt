@@ -205,3 +205,4 @@
 2026-10-17T01:06:36Z step4-5 integrated, backlink from en/cold-chain-at-the-border.html, gates 0 errors 0 warnings
 2026-10-17T01:06:38Z published 24baca1 en/air-or-sea-freight-for-temperature-sensitive-product.html; queue depth 7
 2026-10-19T01:10:48Z starting
+2026-10-19T01:11:00Z step1 pack 29-ar-cold-chain-during-power-outages.md chosen, queue depth 7
