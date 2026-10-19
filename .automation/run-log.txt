@@ -208,3 +208,4 @@
 2026-10-19T01:11:00Z step1 pack 29-ar-cold-chain-during-power-outages.md chosen, queue depth 7
 2026-10-19T01:11:03Z step2 no Target query/AEO lines in pack, derived both from title and outline
 2026-10-19T01:12:31Z step3 article written ar/cold-chain-during-power-outages.html
+2026-10-19T01:12:43Z step4-5 integrated, backlink from ar/storage-at-pharmacy-and-hospital.html, gates 0 errors 0 warnings
