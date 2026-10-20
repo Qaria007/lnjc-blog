@@ -41,7 +41,7 @@ timelines, port names, fees, or anything about how LNJC works internally.
   named in those agreements, for Shivani Scientific Industries Pvt. Ltd. (India) and Zhanjiang
   Bokang Marine Biological Co., Ltd. (BOKANG BIO, China).
 - Based in Sana'a, Shu'ub Directorate, Sa'wan.
-- Contact: +967 775 559 781, contact@landcarenj.com, https://landcarenj.com/
+- Contact: +967 778 555 695, contact@landcarenj.com, https://landcarenj.com/
 
 ## SOURCE: WHO, Model guidance for the storage and transport of time- and temperature-sensitive pharmaceutical products, WHO Technical Report Series No. 961, Annex 9 (2011), section 6.4.1 Air and sea transport
 URL to cite: https://www.who.int/docs/default-source/medicines/norms-and-standards/guidelines/distribution/trs961-annex9-modelguidanceforstoragetransport.pdf

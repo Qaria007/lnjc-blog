@@ -37,7 +37,7 @@ timelines, port names, fees, or anything about how LNJC works internally.
   named in those agreements, for Shivani Scientific Industries Pvt. Ltd. (India) and Zhanjiang
   Bokang Marine Biological Co., Ltd. (BOKANG BIO, China).
 - Based in Sana'a, Shu'ub Directorate, Sa'wan.
-- Contact: +967 775 559 781, contact@landcarenj.com, https://landcarenj.com/
+- Contact: +967 778 555 695, contact@landcarenj.com, https://landcarenj.com/
 
 ## SOURCE: WHO Technical Report Series No. 1025, Annex 8, Points to consider for setting the remaining shelf-life of medical products upon delivery, Fifty-fourth report (2020), sections 3 Glossary, 5.1 Principles and Appendix 1
 URL to cite: https://cdn.who.int/media/docs/default-source/medicines/who-technical-report-series-who-expert-committee-on-specifications-for-pharmaceutical-preparations/trs1025-annex8.pdf

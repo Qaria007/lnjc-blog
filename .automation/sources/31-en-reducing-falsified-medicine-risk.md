@@ -47,7 +47,7 @@ timelines, port names, fees, or anything about how LNJC works internally.
   named in those agreements, for Shivani Scientific Industries Pvt. Ltd. (India) and Zhanjiang
   Bokang Marine Biological Co., Ltd. (BOKANG BIO, China).
 - Based in Sana'a, Shu'ub Directorate, Sa'wan.
-- Contact: +967 775 559 781, contact@landcarenj.com, https://landcarenj.com/
+- Contact: +967 778 555 695, contact@landcarenj.com, https://landcarenj.com/
 
 ## SOURCE: WHO, Guidelines on import procedures for medical products, WHO Technical Report Series No. 1019, Annex 5 (2019), sections 1 Introduction, 3 Glossary, 5 Legal basis of control, 6 Required documentation, and 7 Implementation of controls
 URL to cite: https://cdn.who.int/media/docs/default-source/medicines/norms-and-standards/guidelines/distribution/trs1019-annex5-who-guidelines-on-import-procedures-for-medical-products.pdf

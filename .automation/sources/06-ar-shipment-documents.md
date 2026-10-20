@@ -30,7 +30,7 @@ Do not invent operational detail, timelines, prices or internal process.
   pharmaceutical raw materials and packaging materials in the Republic of Yemen.
 - Exclusive distributor in Yemen, under signed agreements and for the products named in those
   agreements, for Shivani Scientific Industries (India) and BOKANG BIO (China).
-- Based in Sana'a. Contact: +967 775 559 781, contact@landcarenj.com, https://landcarenj.com/
+- Based in Sana'a. Contact: +967 778 555 695, contact@landcarenj.com, https://landcarenj.com/
 
 
 ## SOURCE: WHO, Guidelines on import procedures for medical products, WHO Technical Report Series No. 1019, Annex 5 (2019)

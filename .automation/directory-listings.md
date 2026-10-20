@@ -28,7 +28,7 @@ abbreviate, do not translate the address differently each time.
                      in front of Al-Rafa Hospital
     City:            Sana'a
     Country:         Yemen
-    Phone:           +967 775 559 781
+    Phone:           +967 778 555 695
     Email:           contact@landcarenj.com
     Website:         https://landcarenj.com
     Blog / Insights: https://blog.landcarenj.com
@@ -42,7 +42,7 @@ abbreviate, do not translate the address differently each time.
     العنوان:         مديرية شعوب، سعوان، بجوار نيسان للتصوير، أمام مستشفى الرفاء
     المدينة:         صنعاء
     الدولة:          الجمهورية اليمنية
-    الهاتف:          +967 775 559 781
+    الهاتف:          +967 778 555 695
     البريد:          contact@landcarenj.com
     الموقع:          https://landcarenj.com
     المدوّنة:        https://blog.landcarenj.com

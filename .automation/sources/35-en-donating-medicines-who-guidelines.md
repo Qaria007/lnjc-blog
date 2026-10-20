@@ -47,7 +47,7 @@ timelines, port names, fees, or anything about how LNJC works internally.
   named in those agreements, for Shivani Scientific Industries Pvt. Ltd. (India) and Zhanjiang
   Bokang Marine Biological Co., Ltd. (BOKANG BIO, China).
 - Based in Sana'a, Shu'ub Directorate, Sa'wan.
-- Contact: +967 775 559 781, contact@landcarenj.com, https://landcarenj.com/
+- Contact: +967 778 555 695, contact@landcarenj.com, https://landcarenj.com/
 
 ## SOURCE: World Health Organization and partner agencies, Guidelines for Medicine Donations, Revised 2010: core principles, status of the guidelines, and guidelines 1, 4, 5, 6, 7 and 12
 URL to cite: https://iris.who.int/server/api/core/bitstreams/b0696fa2-5631-4eea-b6a8-2e925af429f8/content

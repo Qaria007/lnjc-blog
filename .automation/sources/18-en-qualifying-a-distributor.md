@@ -41,7 +41,7 @@ timelines, port names, fees, or anything about how LNJC works internally.
   named in those agreements, for Shivani Scientific Industries Pvt. Ltd. (India) and Zhanjiang
   Bokang Marine Biological Co., Ltd. (BOKANG BIO, China).
 - Based in Sana'a, Shu'ub Directorate, Sa'wan.
-- Contact: +967 775 559 781, contact@landcarenj.com, https://landcarenj.com/
+- Contact: +967 778 555 695, contact@landcarenj.com, https://landcarenj.com/
 
 
 ## SOURCE: WHO Technical Report Series No. 1025, Annex 7, Good storage and distribution practices for medical products, Fifty-fourth report (2020), sections on quality management, quality risk management, management review, premises, personnel, receipt and outsourced activities

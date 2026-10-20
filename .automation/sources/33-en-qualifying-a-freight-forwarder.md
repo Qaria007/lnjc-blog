@@ -48,7 +48,7 @@ timelines, port names, fees, or anything about how LNJC works internally.
   named in those agreements, for Shivani Scientific Industries Pvt. Ltd. (India) and Zhanjiang
   Bokang Marine Biological Co., Ltd. (BOKANG BIO, China).
 - Based in Sana'a, Shu'ub Directorate, Sa'wan.
-- Contact: +967 775 559 781, contact@landcarenj.com, https://landcarenj.com/
+- Contact: +967 778 555 695, contact@landcarenj.com, https://landcarenj.com/
 
 ## SOURCE: European Commission, Guidelines of 5 November 2013 on Good Distribution Practice of medicinal products for human use (2013/C 343/01), chapter 7 Outsourced activities, sections 7.1, 7.2 and 7.3
 URL to cite: https://health.ec.europa.eu/system/files/2016-11/2013_c343_01_en_0.pdf
