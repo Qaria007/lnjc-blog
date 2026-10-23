@@ -220,3 +220,4 @@
 2026-10-23T01:10:59Z step1 pack 31-en-reducing-falsified-medicine-risk.md chosen, queue depth 5
 2026-10-23T01:10:59Z step2 Target query/AEO lines present in pack, used as given
 2026-10-23T01:12:36Z step3 article written en/reducing-falsified-medicine-risk-new-market.html
+2026-10-23T01:13:18Z step4-5 integrated, backlink from en/import-controls-and-clearance.html, gates 0 errors 0 warnings
