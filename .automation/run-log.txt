@@ -217,3 +217,5 @@
 2026-10-21T01:12:48Z step4-5 integrated, backlink from en/remaining-shelf-life-at-shipment.html, gates 0 errors 0 warnings
 2026-10-21T01:12:48Z published b58e6b4 en/packaging-and-labelling-export-shipment.html; queue depth 5
 2026-10-23T01:10:41Z starting
+2026-10-23T01:10:59Z step1 pack 31-en-reducing-falsified-medicine-risk.md chosen, queue depth 5
+2026-10-23T01:10:59Z step2 Target query/AEO lines present in pack, used as given
