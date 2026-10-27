@@ -232,3 +232,4 @@
 2026-10-27T01:10:50Z step1 pack 33-en-qualifying-a-freight-forwarder.md chosen; queue depth 3 (below 5)
 2026-10-27T01:10:55Z step2 Target query/AEO lines present in pack, used as given
 2026-10-27T01:12:10Z step3 article written en/qualifying-a-freight-forwarder.html
+2026-10-27T01:12:36Z step4-5 integrated, backlink from en/air-or-sea-freight-for-temperature-sensitive-product.html, gates 0 errors 0 warnings
