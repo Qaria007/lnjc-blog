@@ -236,3 +236,4 @@
 2026-10-27T01:12:38Z published a76d3ed en/qualifying-a-freight-forwarder.html; queue depth 2
 2026-10-29T01:10:40Z starting
 2026-10-29T01:10:45Z step 1: pack 34-en-returns-from-a-distant-market.md chosen; queue depth 2, refill needed
+2026-10-29T01:10:49Z step 2: Target query and AEO question present in pack, used as given
