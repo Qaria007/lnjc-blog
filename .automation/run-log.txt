@@ -242,3 +242,5 @@
 2026-10-29T01:12:29Z step 4-5: integrated, backlink from distribution-agreement-essentials, gates 0 errors 0 warnings, claims checked against pack, lede 58 words
 2026-10-29T01:12:31Z published a9fe1f4 en/returns-from-a-distant-market.html
 2026-10-31T01:10:20Z starting
+2026-10-31T01:10:46Z step 1: pack 35-en-donating-medicines-who-guidelines.md, English, queue depth 1 (refill needed)
+2026-10-31T01:10:46Z step 2: Target query and AEO question present in pack, used as given
