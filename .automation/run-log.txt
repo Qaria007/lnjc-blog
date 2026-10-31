@@ -245,3 +245,4 @@
 2026-10-31T01:10:46Z step 1: pack 35-en-donating-medicines-who-guidelines.md, English, queue depth 1 (refill needed)
 2026-10-31T01:10:46Z step 2: Target query and AEO question present in pack, used as given
 2026-10-31T01:11:48Z step 3: written en/donating-medicines-who-guidelines.html
+2026-10-31T01:12:17Z step 4-5: integrated, link back from en/remaining-shelf-life-at-shipment.html, gates 0 errors 0 warnings, claims checked against pack
