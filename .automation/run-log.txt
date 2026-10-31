@@ -241,3 +241,4 @@
 2026-10-29T01:12:04Z step 3: article written
 2026-10-29T01:12:29Z step 4-5: integrated, backlink from distribution-agreement-essentials, gates 0 errors 0 warnings, claims checked against pack, lede 58 words
 2026-10-29T01:12:31Z published a9fe1f4 en/returns-from-a-distant-market.html
+2026-10-31T01:10:20Z starting
